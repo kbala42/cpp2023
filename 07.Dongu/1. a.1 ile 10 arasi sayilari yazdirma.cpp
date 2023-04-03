@@ -6,17 +6,18 @@
 #include<iostream>
 using namespace std;
 
-int sayac = 1;
+
 
 int main()
 {
+    int sayac = 1;
+
     basla:// etiket tanımlıyoruz
-    if (sayac < 11)
-    {
-        cout<<sayac<<endl;
-        sayac++;
-    }
-    goto basla;
+
+    cout<<sayac<<endl;
+    sayac++;
+
+    if (sayac < 11) goto basla;
 
     return 0;
 }
