@@ -9,6 +9,7 @@
     \\	                \	    ters slash
     \n	                        Yeni satir = endl
     \t	                Tab     bir tab boşluk
+    \r                          baslagica don
 
                                             Kamil Bala
 */
@@ -41,6 +42,12 @@ int main()
 
     string s7 = "uc  tab\t\t\tbosluk";
     cout <<  s7  << endl;
+
+    string s8 = "satir baslangici \r donun";
+    cout <<  s8  << endl;
+
+    string s9 = "alarm cal \a ";
+    cout <<  s9  << endl;
 
     return 0;
 }
