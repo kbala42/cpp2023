@@ -14,6 +14,7 @@ using namespace std;
 
 int main()
 {
+    /*
 
     int a = 10, b;
 
@@ -31,6 +32,7 @@ int main()
 
     cout << "Bir arttir y: " << y << endl;
 
+
 /*
     int k = 5;
     cout << "Bir arttir: " << k++ << endl;
@@ -42,6 +44,9 @@ int main()
 */
 
 /*
+
+
+
     int a = 10, b;
 
     b = a--;
@@ -57,6 +62,7 @@ int main()
     cout << "Bir azalt x: " << x << endl;
 
     cout << "Bir azalt y: " << y << endl;
+
 
    */
 
