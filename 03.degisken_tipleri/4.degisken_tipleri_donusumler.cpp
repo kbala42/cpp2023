@@ -27,5 +27,12 @@ int main()
 
     cout << "d = " << d << endl;
     cout << "e = " << e << endl;
+
+    char str ='K';
+    cout << "K = " << (int) str << endl; // ascii karsiligi
+
+    int sayi = 75;
+    cout << "75 ascii = " << (char) sayi << endl;
+
 }
 

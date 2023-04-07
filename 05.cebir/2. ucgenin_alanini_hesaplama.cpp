@@ -14,7 +14,9 @@ int main()
 
     int yukseklik;
 
-    int alan;
+    //int alan; // Eger sonuc kusuratli bir degerse int en yakin alt degeri alir
+
+    float alan;
 
     cout<< "Ucgenin bir kenarini giriniz: ";
     cin>>kenar;
