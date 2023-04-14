@@ -48,11 +48,13 @@ int main()
     cout << "c5: " << c5 << endl;
     cout << "c6: " << c6 << endl;
 */
+/*
     char c_min = -127;
     char c_max = 128;
     cout << "c_min: " << c_min << endl;
     cout << "c_max: " << c_max << endl;
     cout << endl;
+*/
 /*
     char c_min1 = -128;
     char c_max1 = 129;
@@ -77,7 +79,17 @@ int main()
     cout << "c_min4: " << c_min4 << endl;
     cout << "c_max4: " << c_max4 << endl;
     cout << endl;
+
  */
+ /*
+    char x = 'F';
+    cout<<x<<endl;
+    cout<<(int) x<<endl;
+
+    char y = 75;
+    cout<<y<<endl;
+
+*/
     return 0;
 
 }

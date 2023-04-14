@@ -1,6 +1,6 @@
 /*
-    Rastgele girilen N sayindan cift ve tek sayilarin adedlerini
-    ve toplamlarini bulan program
+    Kullanicinin gircegi N sayindan cift ve tek sayilarin adedlerini
+    ve toplamlarini, cift sayilarin ve tek sayilarin ortalamlarini bulan program
 
     while
 

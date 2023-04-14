@@ -1,19 +1,19 @@
 /*
     100  ile 0 arasi 3 katlari_for_3 katlari
-    +2 artimla
+    mod 3
 
                                                         Kamil Bala
 */
 #include<iostream>
 using namespace std;
 
-int sayac = 1;
-
 int main()
 {
-    for(int sayac=99; sayac>0;sayac -=3)
+    for(int sayac=99; sayac>0;sayac--)
     {
-        cout<<sayac<<endl;
+        if (sayac%3==0) cout<<sayac<<endl; // sayacýn o anki deðeri 3 gore
+							               // modu sifirsa yazdir
+
     }
 
     return 0;

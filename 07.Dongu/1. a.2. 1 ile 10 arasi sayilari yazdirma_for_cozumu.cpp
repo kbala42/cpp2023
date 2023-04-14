@@ -1,5 +1,5 @@
 /*
-    1 ile 10 arası sayıları ekrana yazdıran program
+    1 ile 100 arası sayıları ekrana yazdıran program
 
                                                         Kamil Bala
 
@@ -11,11 +11,10 @@
 #include<iostream>
 using namespace std;
 
-int sayac = 1;
 
 int main()
 {
-    for(int sayac=1; sayac<11;sayac++)
+    for(int sayac=1; sayac<=100;sayac++)
     {
         cout<<sayac<<endl;
     }
