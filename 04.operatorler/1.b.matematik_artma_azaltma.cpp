@@ -66,6 +66,31 @@ int main()
 
    */
 
+   /*
+    int a = 10, b = 5, c;
+
+    c = --a + b++; // c = 9 + 5 = 14
+
+    cout << "a: " << a << endl; // --a = 9
+
+    cout << "b: " << b << endl; // b++ = 6
+
+    cout << "c: " << c << endl; // c = 9 + 5 = 14
+
+    int a = 10, b = 5, c;
+*/
+/*
+
+    int a = 10, b = 5, c;
+
+    c = --a + ++b; // c = 9 + 6 = 15
+
+    cout << "a: " << a << endl; // --a = 9
+
+    cout << "b: " << b << endl; // ++b  = 6
+
+    cout << "c: " << c << endl; // c = 9 + 6 = 15
+*/
     return 0;
 
 }
