@@ -1,5 +1,6 @@
 /*
-    100’e kadar olan asal sayilari bulan program. break ve continue kullanarak yapılan cozum.
+    100’e kadar olan asal sayilari bulan program.
+    .
                                                                 Kamil Bala
 
 */
@@ -11,21 +12,21 @@ using namespace std;
 
 int main()
 {
-        bool asalMi=true;
-    int sayi;
+    bool asalMi=false;
 
-    for(int i=2; i<1000; i++)
+    for(int sayi=2; sayi<100; sayi++)
     {
-        for(int sayac = 2; sayac<=i/2; sayac++)
+        for(int sayac = 2; sayac<=sayi/2; sayac++)
         {
             if(sayi % sayac == 0) // sayi, sayac'in o anki iceregine tam bolunuyorsa asal degildir
             {
-                asalMi = false;
-                break;
+                    asalMi = true;
+                    break;
             }
-            else cout<<sayi<<endl;
+            else asalMi=false;
         }
-        asalMi=true;
+
+        if (asalMi == false) cout<<sayi<< endl;
     }
 
 

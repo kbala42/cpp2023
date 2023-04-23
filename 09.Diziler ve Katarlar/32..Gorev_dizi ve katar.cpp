@@ -23,6 +23,7 @@ int main()
 
     for(int i=0; i < 4; i++)  cin >> katar[i];
 
+    // Dizinin son elemanini \0 giriyoruz
     katar[4] = '\0';
 
     cout << "ilk isim: ";

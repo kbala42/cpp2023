@@ -10,23 +10,21 @@ using namespace std;
 
 int main()
 {
-    bool asalMi=true;
+    bool asalMi=false;
     int sayi;
+    cout<<"Sayi giriniz: "; cin>>sayi;
 
-    for(int i=2; i<1000; i++)
+    for(int sayac = 2; sayac<=sayi/2; sayac++)
     {
-        for(int sayac = 2; sayac<=i/2; sayac++)
+        if(sayi % sayac == 0) // sayi, sayac'in o anki iceregine tam bolunuyorsa asal degildir
         {
-            if(sayi % sayac == 0) // sayi, sayac'in o anki iceregine tam bolunuyorsa asal degildir
-            {
-                asalMi = false;
+                asalMi = true;
+                cout<<sayi<<" asal bir sayi degildir"<< endl;
                 break;
-            }
-            else cout<<sayi<<endl;
         }
-        asalMi=true;
     }
 
+    if (asalMi == false) cout<<sayi<<" asal bir sayidir"<< endl;
 
     return 0;
 
