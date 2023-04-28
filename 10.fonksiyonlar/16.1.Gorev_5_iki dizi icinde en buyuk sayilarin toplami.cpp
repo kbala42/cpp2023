@@ -1,10 +1,6 @@
 /*
-    Fonksiyona gönderilen iki sayıdan küçük olanı
-    geriye döndüren fonksiyonu yazalım.
-
-
-
-
+    İki dizinin elemanlarindan en büyük elemanları bulup
+    toplamlarını hesaplayan program
 
                         Kamil Bala
 

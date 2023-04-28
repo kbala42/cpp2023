@@ -1,9 +1,6 @@
 /*
-    Fonksiyona gönderilen iki sayıdan küçük olanı
+    Fonksiyona gönderilen dizi içinde en büyük olanı
     geriye döndüren fonksiyonu yazalım.
-
-
-
 
 
                         Kamil Bala
