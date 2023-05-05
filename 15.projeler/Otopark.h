@@ -1,20 +1,21 @@
-#include<iostream>
-using namespace std;
+#ifndef OTOPARK_H
+#define OTOPARK_H
+
 
 class Otopark
 {
+    public:
+        void menu();
+
+    protected:
+
     private:
         int ucret;
         int saat;
         int aracCinsi;
         int toplamUcret;
+        int secim;
         void hesapla();
-    public:
-        void menu();
-
 };
-int main(int argc, char** argv)
-{
 
-    return 0;
-}
+#endif // OTOPARK_H

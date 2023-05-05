@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1682756985 source:c:\users\kbala\documents\github\cpp2023\15.projeler\tc_kimlik\tc_kimlik\kimlik_main.cpp
+	<iostream>
+	"src\kimlik.cpp"
+
+1682757218 c:\users\kbala\documents\github\cpp2023\15.projeler\tc_kimlik\tc_kimlik\src\kimlik.cpp
+	"kimlik.h"
+	<iostream>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+
+1682757236 c:\users\kbala\documents\github\cpp2023\15.projeler\tc_kimlik\tc_kimlik\include\kimlik.h
+
+1682757218 source:c:\users\kbala\documents\github\cpp2023\15.projeler\tc_kimlik\tc_kimlik\src\kimlik.cpp
+	"kimlik.h"
+	<iostream>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+
