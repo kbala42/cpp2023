@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencibilgileri\main.cpp
+	<iostream>
+
+1684523195 source:c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencibilgileri\ogrenci.cpp
+	<iostream>
+	"Ogrenci.h"
+
+1684523141 c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencibilgileri\ogrenci.h
+	<iostream>
+

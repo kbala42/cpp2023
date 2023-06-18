@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1684819801 source:c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\main.cpp
+	<iostream>
+	"dogumTarihi.h"
+	"Isim.h"
+	"Ders.h"
+	"Ogrenci.h"
+	"Menu.h"
+
+1684655765 source:c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\src\dogumtarihi.cpp
+	<iostream>
+	"DogumTarihi.h"
+
+1684654463 c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\include\dogumtarihi.h
+
+1684667018 source:c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\src\isim.cpp
+	"Isim.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1684666878 c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\include\isim.h
+
+1684817233 source:c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\src\ders.cpp
+	"Ders.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1684815950 c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\include\ders.h
+
+1684818599 source:c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\src\ogrenci.cpp
+	"Ogrenci.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1684818533 c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\include\ogrenci.h
+	"dogumTarihi.h"
+	"Ders.h"
+	"Isim.h"
+
+1684818835 c:\users\kbala\documents\github\cpp2023\15.projeler\ogrencikayit\include\menu.h
+

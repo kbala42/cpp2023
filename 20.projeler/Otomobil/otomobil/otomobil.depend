@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683878052 source:c:\users\kbala\documents\github\cpp2023\15.projeler\otomobil\otomobil\main.cpp
+	<iostream>
+	"otomobil.h"
+
+1683877817 c:\users\kbala\documents\github\cpp2023\15.projeler\otomobil\otomobil\otomobil.h
+	<iostream>
+
+1683877946 source:c:\users\kbala\documents\github\cpp2023\15.projeler\otomobil\otomobil\otomobil.cpp
+	"otomobil.h"
+

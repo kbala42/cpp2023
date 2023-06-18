@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1684512311 source:c:\users\kbala\documents\github\cpp2023\15.projeler\otomobil\ogrencikayitsistemi\main.cpp
+	<iostream>
+	"Ogrenci.h"
+	<list>
+
+1684482334 source:c:\users\kbala\documents\github\cpp2023\15.projeler\otomobil\ogrencikayitsistemi\ogrenci.cpp
+	<iostream>
+	"Ogrenci.h"
+
+1684482148 c:\users\kbala\documents\github\cpp2023\15.projeler\otomobil\ogrencikayitsistemi\ogrenci.h
+	<iostream>
+
